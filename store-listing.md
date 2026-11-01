@@ -102,12 +102,22 @@ Truthful for this build:
 
 | Asset | Spec you should aim for | Status |
 |---|---|---|
-| Launcher / store icon | 512×512 PNG, no transparency | Ready: `assets/app_icon.png` (512×512) |
-| Screenshots | 4–8, portrait 9:16 (1080×1920 ideal), from the real app | **TODO — must be captured from the phone build** |
-| Feature graphic | 1024×500 or as prompted | **TODO** |
-| Privacy policy URL | public, permanent | Ready once this repo is published (URL below) |
-| Support email | must be real and monitored | **TODO — needs your address** |
+| Launcher / store icon | 512×512 PNG, 32-bit, ≤1024 KB, transparency allowed | Ready: `assets/app_icon.png` (512×512, 323 KB) |
+| Screenshots | 4–8, portrait 9:16 (1080×1920 ideal), from the real app | Ready: `screenshots/01…07` — all exactly 1080×1920 PNG, captured from the shipped build |
+| Feature graphic | 1024×500 PNG, no alpha | Ready: `assets/feature_graphic.png` (1024×500, 140 KB) |
+| Privacy policy URL | public, permanent | Ready: `https://rafikulislammollaq-dev.github.io/dudumonulife-site/privacy-policy.html` |
+| Support email | must be real and monitored | Ready: `personalcomputerofrajib@gmail.com` |
 | Data-safety form | list ad SDK collection | See "Data safety" below |
+
+Screenshots, in the order to upload them (each one sells a different promise):
+
+1. `01_choose_dudu_or_monu.png` — the two playable heroes.
+2. `02_hustle_from_gully.png` — the core loop, HUD, tabs, the rewarded "AD · FREE PASA" pill.
+3. `03_50_vehicles.png` — Activa to Maruti Swift, 50 vehicles with real art each.
+4. `04_story_episodes.png` — the manhwa-style story panels.
+5. `05_save_bubu.png` — the Save Bubu rescue mission with its danger timer.
+6. `06_life_and_maza.png` — Jeena: party, beach, Holi, Diwali, cricket.
+7. `07_gf_said_yes.png` — the girlfriend reveal moment.
 
 ## Data-safety / data-collection declaration
 
