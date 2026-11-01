@@ -1,0 +1,148 @@
+PHONEPE APPSTORE — LISTING COPY
+Package name everywhere: com.dudumonulife.app
+Character limits shown are PhonePe's own: Short 200, Description 4000, Screenshots 2-8 at 1080x1920.
+
+
+=====================================================================
+STEP 2 — APP METADATA
+=====================================================================
+
+APP NAME
+Indian Guy: Rich Simulator
+
+SHORT DESCRIPTION
+Build an Indian life from scratch — chai tapri to penthouse. Jobs, gaadi, ghar, reels, manhwa and Bubu. No login, plays offline, one choice, one life.
+
+DESCRIPTION
+Indian Guy: Rich Simulator is a Hindi-English life simulator where you raise one character from a small beginning to a life you actually built — and you decide the order you do it in.
+
+CHOOSE YOUR GUY
+Play as Dudu or Monu. One choice, one life. Close the app and it opens straight back into the same life, exactly where you left it — no re-choosing every launch.
+
+LIFE AND MAZA, NOT HP
+Every month of your life moves two meters: LIFE (how well you are doing) and MAZA (how much you are enjoying it). Grind income and ignore Maza and your guy burns out. Chase fun and ignore money and the bills catch up. Balance is the game.
+
+WORK YOUR WAY UP
+Start at street jobs — car wash, chai, small shifts — and climb into offices, businesses and the big roles. Each job pays differently and demands differently, and partial effort gives partial pay.
+
+ROAD, SEA AND AIR
+50 vehicles. Buy the one you actually want and it shows up in your world, not in a menu. Two-wheelers, cars, and the sky-and-water toys for when you have made it.
+
+PROPERTY THAT EXISTS IN THE SCENE
+30 homes, and the ones you buy are physically there. Partners you get are there with you. Nothing is a toggle icon.
+
+MANHWA, REELS AND THE FAME LOOP
+Your guy gets screen time: manhwa episodes, reels and sponsor slots. Fame pulls events, and events pull money and trouble in equal measure.
+
+SAVE BUBU
+Bubu is the one person who calls at 2 a.m. When she is in danger, the timer is real and your next move matters — 200 rescue missions. Losing her is not a death screen, it is a consequence.
+
+NO DEATH SCREEN, JUST CONSEQUENCES
+Fail and your life does not restart to zero. Your meters drop, doors close for a while, and you get to work back up from where you fell.
+
+PLAY OFFLINE
+The city runs without internet. Come back after a few hours and your properties pay out what they earned while you were away.
+
+ADVERTISING, AND WHY IT IS HERE
+The game is free and made by one person with no budget. Ads are opt-in: every reward button says AD, you only see one by tapping it, and full-screen ads appear at natural breaks — never during a video, never during the Bubu rescue timer, never in your first minute.
+
+No purchase, no account, no login, and your save never leaves your phone.
+
+
+SCREENSHOTS — drag these 7, in this order
+Folder: C:\Users\perso\Downloads\dudumonulife-site\screenshots
+01_choose_dudu_or_monu.png
+02_hustle_from_gully.png
+03_50_vehicles.png
+04_story_episodes.png
+05_save_bubu.png
+06_life_and_maza.png
+07_gf_said_yes.png
+All are exactly 1080x1920 PNG, 100-360 KB each, captured from the shipping build.
+
+
+=====================================================================
+STEP 3 — INDIAN LANGUAGE (Hindi)  ·  optional, skip if you prefer
+=====================================================================
+
+SHORT DESCRIPTION (HINDI)
+चाय टपरी से पेंटहाउस तक — अपनी इंडियन ज़िंदगी खुद बनाइए। जॉब, गाड़ी, घर, रीलस और मान्वा। कोई लॉगिन नहीं, ऑफ़लाइन खेलिए।
+
+DESCRIPTION (HINDI)
+Indian Guy: Rich Simulator एक हिंदी-इंग्लिश लाइफ सिम्युलेटर है। एक किरदार लीजिए, छोटी शुरुआत से आगे ले जाइए — और रास्ता खुद तय कीजिए।
+
+DUDU या MONU
+दो में से एक चुनिए। एक बार चुन लिया, फिर ऐप खोलने पर वही ज़िंदगी वहीं से जारी रहेगी — बार-बार चुनना नहीं पड़ेगा।
+
+LIFE और MAZA, HP नहीं
+हर महीने दो चीज़ें चलती हैं: LIFE (आप कैसे चल रहे हैं) और MAZA (आपको कितना मज़ा आ रहा है)। सिर्फ़ कमाई के पीछे भागोगे तो किरदार टूट जाएगा, सिर्फ़ मज़ा करोगे तो बिल जकड़ लेंगे। असली खेल इन्हीं दोनों का संतुलन है।
+
+मेहनत से ऊपर
+शुरुआत कार वॉश, मोली चाय और छोटी शिफ्ट से। आगे ऑफ़िस, बिज़नेस और बड़े रोल। आधी मेहनत पर आधा फ़ायदा — पूरा सिस्टम यही मानता है।
+
+50 गाड़ियाँ, 30 घर
+जो गाड़ी खरीदोगे वो दुनिया में नज़र आएगी, मेन्यू में नहीं। जो घर लेंगे वो सीन में मौजूद रहेगा। कोई टॉगल आइकन नहीं।
+
+रीलस, मान्वा और बूबू
+मन्हावा एपीसोड, रीलस और स्पॉनसर स्लॉट — शोहरत इवेंट लाती है, इवेंट पैसे और मुसीबत दोनों। और बूबू? वो रात 2 बजे कॉल करती है। 200 रेस्क्यू मिशन, असली टाइमर, असली नतीजे।
+
+कोई डेथ स्क्रीन नहीं
+हारने पर ज़िंदगी शून्य से शुरू नहीं होती। मीटर गिरते हैं, कुछ रास्ते कुछ देर के लिए बंद होते हैं, और आप गिरे हुए जगह से वापस ऊपर चढ़ते हैं।
+
+ऑफ़लाइन खेलिए
+इंटरनेट के बिना भी शहर चलता है। कुछ घंटे बाद लौटें तो आपकी प्रॉपर्टी की कमाई आपको मिलती है।
+
+ऐड्स के बारे में
+गेम फ्री है और एक इंसान ने बनाया है। ऐड सिर्फ़ आपकी मर्ज़ी से — हर रिवॉर्ड बटन पर AD लिखा है, पूरे स्क्रीन का ऐड नेचुरल ब्रेक पर ही आता है, वीडियो के बीच में या बूबू के रेस्क्यू टाइमर के दौरान कभी नहीं, और पहले एक मिनट में भी नहीं।
+
+कोई इन-ऐप परचेज़ नहीं, कोई अकाउंट नहीं, आपका सेव फ़ोन से बाहर नहीं जाता।
+
+
+=====================================================================
+STEP 4 — SUPPORT & WEBSITE
+=====================================================================
+
+Privacy policy URL
+https://rafikulislammollaq-dev.github.io/dudumonulife-site/privacy-policy.html
+
+Support / contact email
+personalcomputerofrajib@gmail.com
+
+Website (if it asks for one)
+https://rafikulislammollaq-dev.github.io/dudumonulife-site/
+
+
+=====================================================================
+STEP 5 — UPLOAD APPLICATION
+=====================================================================
+
+APK to upload (built 17:21 today, has the offline-earnings fix)
+C:\Users\perso\Downloads\Dudu or Monu--The  Life simulator\Build\Store\DuduMonu-release.apk
+119.5 MiB · versionName 1.0 · versionCode 1 · arm64-v8a · minSdk 24 · targetSdk 33
+
+RELEASE NOTES FOR 1.0
+First public build.
+- The game now opens straight back into your life instead of asking you to choose a character again.
+- Settings to MAIN MENU returns you to the character screen without touching your save.
+- Rewarded ads are opt-in and every reward button is labelled.
+- Offline earnings, jobs, vehicles, homes, reels, manhwa episodes and the Bubu rescue arc are all live.
+
+CATEGORY
+Games -> Simulation   (secondary: Casual)
+
+DATA SAFETY — declare the ad SDK only, the game itself collects nothing
+Collected: device/advertising ID (GAID), IP address, device model, OS, screen size, language,
+carrier, network type, app package and version, ad interaction events, crash logs.
+Purpose: advertising, fraud prevention, stability.
+Not collected: name, email, phone, contacts, camera, microphone, location, photos, files,
+calendar, call log, messages.
+No account, no in-app purchases, no player-to-player chat.
+Ads present: yes — Unity LevelPlay (Unity Ads / ironSource network).
+In-app purchases: none.
+
+
+=====================================================================
+ICON AND BANNER, IF A FIELD ASKS AGAIN
+=====================================================================
+Icon 512x512   C:\Users\perso\Downloads\dudumonulife-site\assets\app_icon.png
+Banner 1024x500  C:\Users\perso\Downloads\dudumonulife-site\assets\feature_graphic.png
